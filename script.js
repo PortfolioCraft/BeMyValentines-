@@ -23,6 +23,11 @@ function acceptLove() {
     document.getElementById("valentine").innerHTML = `
         <img src="https://i.pinimg.com/originals/31/36/2a/31362a548dc7574f80d01a42a637bc93.gif" class="gif">
         <div class="question">YAYAYYAYAYAYAY I LOVE YOU SO MUCH MY SWEET LITTLE KITTEN❤️</div>
+        <div class="question">I just want to take a moment to thank you—for being you. For being the kind of person who makes life brighter, warmer, and so much more beautiful.
+
+With you, everything feels lighter, every day feels special, and love feels effortless. If I had to choose all over again, in this life or another, it would always be you.
+
+Thank you for being my person. My heart is forever yours. 💕</div>
     `;
     launchConfetti();
     startHeartRain();
